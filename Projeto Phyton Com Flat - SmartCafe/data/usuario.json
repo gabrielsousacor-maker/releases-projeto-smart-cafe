@@ -1,0 +1,7 @@
+{
+  "usuario": "gabrieladm",
+  "senha": "@1234",
+  "nome": "Gabriel Sales",
+  "nivel": "Administrador",
+  "acoes": ["Ver produto", "Gerenciar permissões"]
+}
